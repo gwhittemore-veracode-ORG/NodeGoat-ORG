@@ -159,6 +159,7 @@ Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/con
 
 ## License
 #test#
+#testthethings#
 
 Code licensed under the [Apache License v2.0.](http://www.apache.org/licenses/LICENSE-2.0)
 
