@@ -1,13 +1,13 @@
 # NodeGoat
-
+ 
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
-
-## Getting Started
-
+ 
+## Getting Started 
+    
 OWASP Top 10 for Node.js web applications:
-
-### Know it!
-
+ 
+### Know it!  
+ 
 This application bundled a tutorial page that explains the OWASP Top 10 vulnerabilities and how to fix them.
 
 Once the application is running, you can access the tutorial page at [http://localhost:4000/tutorial](http://localhost:4000/tutorial) (or the port you have configured).
